@@ -1,0 +1,7 @@
+name: Colorsigns
+version: ${project.version}
+main: net.snapecraft.colorsigns.Colorsigns
+prefix: [ColorSign] 
+authors: [Tallerik]
+description: Colored Signtext
+website: snapecraft.net
